@@ -534,7 +534,7 @@
       "properties": {
         "id_sysma": 20878,
         "commentair": "commentaire",
-        "rive": "null",
+        "rive": "gauche",
         "suppr": 0
       },
       "geometry": {
