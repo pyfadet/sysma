@@ -470,14 +470,14 @@
       "properties": {
         "id_sysma": 20874,
         "commentair": "qsdddddddd",
-        "rive": "AAAAqsdnkj",
+        "rive": "Rive gauche",
         "suppr": 0
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.94482421875,
-          47.628380027447136
+          -0.8953857421874999,
+          47.27550216573706
         ]
       }
     },
