@@ -470,14 +470,14 @@
       "properties": {
         "id_sysma": 20874,
         "commentair": "qsdddddddd",
-        "rive": "Rive gauche",
+        "rive": "Rive gaucheefer",
         "suppr": 0
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8953857421874999,
-          47.27550216573706
+          -0.7745361328125,
+          47.297859249409825
         ]
       }
     },
