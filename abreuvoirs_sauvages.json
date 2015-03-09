@@ -374,8 +374,8 @@
       "properties": {
         "id_sysma": 20868,
         "commentair": "commentairess",
-        "rive": null,
-        "suppr": 0
+        "rive": "Rive",
+        "suppr": 1
       },
       "geometry": {
         "type": "Point",
@@ -469,15 +469,15 @@
       "type": "Feature",
       "properties": {
         "id_sysma": 20874,
-        "commentair": "Commentaire",
-        "rive": "Rive gauches et gauches",
+        "commentair": "Commentaires",
+        "rive": "Rive gauches et gauchess",
         "suppr": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8074951171874999,
-          47.52461999690649
+          -0.6976318359375,
+          47.518128167602484
         ]
       }
     },
@@ -660,17 +660,6 @@
         "coordinates": [
           -2.0928955078125,
           47.61727271567975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.63720703125,
-          47.148633511301426
         ]
       }
     },
