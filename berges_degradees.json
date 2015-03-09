@@ -343,7 +343,7 @@
         "id_sysma": 20866,
         "commentair": null,
         "rive": null,
-        "suppr": 0
+        "suppr": 1
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +359,7 @@
         "id_sysma": 20867,
         "commentair": null,
         "rive": null,
-        "suppr": 0
+        "suppr": 1
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +391,7 @@
         "id_sysma": 20869,
         "commentair": null,
         "rive": null,
-        "suppr": 0
+        "suppr": 1
       },
       "geometry": {
         "type": "Point",
