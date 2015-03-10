@@ -375,7 +375,7 @@
         "id_sysma": 20868,
         "commentair": "commentairess",
         "rive": "Rives",
-        "suppr": 1
+        "suppr": 0
       },
       "geometry": {
         "type": "Point",
@@ -470,14 +470,14 @@
       "properties": {
         "id_sysma": 20874,
         "commentair": "Commentaires",
-        "rive": "Rive",
+        "rive": "Rives",
         "suppr": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.70037841796875,
-          47.4057852900587
+          -0.7855224609375,
+          47.489368981370724
         ]
       }
     },
