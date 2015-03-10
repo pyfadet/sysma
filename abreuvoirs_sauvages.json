@@ -630,7 +630,7 @@
       "properties": {
         "id_sysma": 20927,
         "commentair": null,
-        "rive": null,
+        "rive": "rives",
         "suppr": 0
       },
       "geometry": {
