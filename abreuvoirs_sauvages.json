@@ -390,7 +390,7 @@
       "properties": {
         "id_sysma": 20869,
         "commentair": "comment next",
-        "rive": "null",
+        "rive": "rive",
         "suppr": 0
       },
       "geometry": {
@@ -470,14 +470,14 @@
       "properties": {
         "id_sysma": 20874,
         "commentair": "Commentaires",
-        "rive": "Rives",
+        "rive": "Rives gauche",
         "suppr": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -0.81298828125,
-          47.3704545156932
+          47.336961408985005
         ]
       }
     },
