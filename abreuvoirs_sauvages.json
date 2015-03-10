@@ -389,8 +389,8 @@
       "type": "Feature",
       "properties": {
         "id_sysma": 20869,
-        "commentair": null,
-        "rive": null,
+        "commentair": "comment next",
+        "rive": "null",
         "suppr": 0
       },
       "geometry": {
