@@ -406,7 +406,7 @@
       "properties": {
         "id_sysma": 20870,
         "commentair": "belle rives",
-        "rive": "Rive",
+        "rive": "Rives",
         "suppr": 0
       },
       "geometry": {
@@ -470,7 +470,7 @@
       "properties": {
         "id_sysma": 20874,
         "commentair": "Commentaires",
-        "rive": "Rive",
+        "rive": "Rives",
         "suppr": 1
       },
       "geometry": {
@@ -630,7 +630,7 @@
       "properties": {
         "id_sysma": 20927,
         "commentair": null,
-        "rive": null,
+        "rive": "rives",
         "suppr": 0
       },
       "geometry": {
