@@ -380,8 +380,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1043701171875,
-          47.310896517807215
+          -0.38864135742187494,
+          47.40671472747142
         ]
       }
     },
@@ -406,14 +406,14 @@
       "properties": {
         "id_sysma": 20870,
         "commentair": "belle rives belle rives",
-        "rive": "rive ok",
+        "rive": "rive ok de bonne qualite",
         "suppr": 0
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.830841064453125,
-          47.381614160856806
+          -0.803375244140625,
+          47.37975438400816
         ]
       }
     },
