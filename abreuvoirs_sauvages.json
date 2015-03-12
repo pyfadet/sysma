@@ -373,8 +373,8 @@
       "type": "Feature",
       "properties": {
         "id_sysma": 20868,
-        "commentair": "commentair",
-        "rive": "Rives",
+        "commentair": "commentaires",
+        "rive": "Rive",
         "suppr": 0
       },
       "geometry": {
