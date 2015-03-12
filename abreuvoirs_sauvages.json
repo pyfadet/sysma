@@ -469,15 +469,15 @@
       "type": "Feature",
       "properties": {
         "id_sysma": 20874,
-        "commentair": "Commentaires",
+        "commentair": "Commentaires PC",
         "rive": "Rives gauche",
         "suppr": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.814361572265625,
-          47.30530951077587
+          -0.638580322265625,
+          47.381614160856806
         ]
       }
     },
@@ -647,8 +647,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.615234375,
-          47.30903424774781
+          -0.5548095703125,
+          47.39463076190644
         ]
       }
     },
