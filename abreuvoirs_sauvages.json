@@ -406,14 +406,14 @@
       "properties": {
         "id_sysma": 20870,
         "commentair": "belle rives belle rives",
-        "rive": "blanc",
+        "rive": "rive ok",
         "suppr": 0
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.836334228515625,
-          47.30205015061552
+          -0.830841064453125,
+          47.381614160856806
         ]
       }
     },
