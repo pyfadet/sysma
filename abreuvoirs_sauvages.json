@@ -373,15 +373,15 @@
       "type": "Feature",
       "properties": {
         "id_sysma": 20868,
-        "commentair": "commentaires",
+        "commentair": "commentairesgvh",
         "rive": "Rive",
         "suppr": 0
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.296630859375,
-          47.3425450696602
+          -0.1702880859375,
+          47.535746978239125
         ]
       }
     },
