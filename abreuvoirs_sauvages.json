@@ -407,13 +407,13 @@
         "id_sysma": 20870,
         "commentair": "belle rives belle rives",
         "rive": "rive ok de bonne qualite",
-        "suppr": 0
+        "suppr": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.803375244140625,
-          47.37975438400816
+          -0.8953857421875001,
+          47.37231462056695
         ]
       }
     },
