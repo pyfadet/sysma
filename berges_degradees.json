@@ -1838,7 +1838,7 @@
       "type": "Feature",
       "properties": {
         "id_sysma": 23229,
-        "commentair": null,
+        "commentair": "commentaires",
         "type_degr": "piétinement",
         "suppr": 0
       },
