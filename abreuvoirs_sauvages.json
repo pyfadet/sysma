@@ -938,6 +938,17 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2030029296875,
+          47.46523622438362
+        ]
+      }
     }
   ]
 }
