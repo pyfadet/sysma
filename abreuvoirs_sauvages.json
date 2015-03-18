@@ -535,7 +535,7 @@
         "id_sysma": 20878,
         "commentair": "commentaire",
         "rive": "gauche",
-        "suppr": 0
+        "suppr": 1
       },
       "geometry": {
         "type": "Point",
