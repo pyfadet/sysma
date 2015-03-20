@@ -390,8 +390,8 @@
       "properties": {
         "id_sysma": 20869,
         "commentair": "comment next 1",
-        "rive": "rive 2",
-        "suppr": 0
+        "rive": "rive 5",
+        "suppr": 1
       },
       "geometry": {
         "type": "Point",
