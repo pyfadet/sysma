@@ -390,7 +390,7 @@
       "properties": {
         "id_sysma": 20869,
         "commentair": "comment next 1",
-        "rive": "rive *",
+        "rive": "rive",
         "suppr": 1
       },
       "geometry": {
@@ -788,7 +788,7 @@
       "properties": {
         "id_sysma": 30006,
         "commentair": null,
-        "rive": null,
+        "rive": "pol",
         "suppr": 0
       },
       "geometry": {
@@ -807,8 +807,8 @@
             47.52832925298343
           ],
           [
-            -1.461181640625,
-            47.42437092240519
+            -1.3128662109375,
+            47.46430782006919
           ],
           [
             -1.4117431640625,
@@ -928,7 +928,7 @@
       "properties": {
         "id_sysma": 30010,
         "commentair": null,
-        "rive": null,
+        "rive": "pol",
         "suppr": 0
       },
       "geometry": {
