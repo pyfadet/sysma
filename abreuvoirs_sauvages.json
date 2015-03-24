@@ -644,7 +644,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30000
+        "id_sysma": 30000,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Point",
@@ -657,7 +660,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30001
+        "id_sysma": 30001,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Point",
@@ -670,7 +676,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30002
+        "id_sysma": 30002,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Point",
@@ -683,7 +692,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30003
+        "id_sysma": 30003,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "LineString",
@@ -702,7 +714,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30004
+        "id_sysma": 30004,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -735,7 +750,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30005
+        "id_sysma": 30005,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -768,7 +786,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30006
+        "id_sysma": 30006,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "LineString",
@@ -799,7 +820,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30007
+        "id_sysma": 30007,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "LineString",
@@ -826,7 +850,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30008
+        "id_sysma": 30008,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -863,7 +890,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30009
+        "id_sysma": 30009,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -896,7 +926,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30010
+        "id_sysma": 30010,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -929,7 +962,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30011
+        "id_sysma": 30011,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Point",
@@ -942,7 +978,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30012
+        "id_sysma": 30012,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -979,7 +1018,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30013
+        "id_sysma": 30013,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "LineString",
@@ -998,7 +1040,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30014
+        "id_sysma": 30014,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "LineString",
@@ -1021,7 +1066,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30015
+        "id_sysma": 30015,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "LineString",
@@ -1040,7 +1088,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30016
+        "id_sysma": 30016,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Point",
@@ -1053,7 +1104,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30017
+        "id_sysma": 30017,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "LineString",
@@ -1072,7 +1126,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30018
+        "id_sysma": 30018,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Point",
@@ -1085,7 +1142,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30019
+        "id_sysma": 30019,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "LineString",
@@ -1116,7 +1176,10 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30020
+        "id_sysma": 30020,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1149,7 +1212,10 @@
     {
       "type": "Feature",
       "properties": {
-         "id_sysma": 30021
+         "id_sysma": 30021,
+        "commentair": null,
+        "rive": null,
+        "suppr": 0
       },
       "geometry": {
         "type": "Point",
