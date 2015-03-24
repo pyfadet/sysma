@@ -342,7 +342,7 @@
       "properties": {
         "id_sysma": 20866,
         "commentair": null,
-        "rive": null,
+        "rive": "gggg",
         "suppr": 0
       },
       "geometry": {
@@ -980,7 +980,7 @@
       "properties": {
         "id_sysma": 30012,
         "commentair": null,
-        "rive": "hhh",
+        "rive": "hhhggg",
         "suppr": 0
       },
       "geometry": {
@@ -1230,6 +1230,65 @@
         "coordinates": [
           0.5328369140625,
           47.41322033016902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.8953857421874999,
+              47.77625204393233
+            ],
+            [
+              -0.8953857421874999,
+              48.07807894349862
+            ],
+            [
+              -0.6536865234375,
+              48.07807894349862
+            ],
+            [
+              -0.6536865234375,
+              47.77625204393233
+            ],
+            [
+              -0.8953857421874999,
+              47.77625204393233
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1151123046875,
+          47.60616304386874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.5985107421875,
+            48.03401915864286
+          ],
+          [
+            -1.2744140625,
+            48.0156497866894
+          ]
         ]
       }
     }
