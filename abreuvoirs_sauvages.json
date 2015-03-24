@@ -374,7 +374,7 @@
       "properties": {
         "id_sysma": 20868,
         "commentair": "commentairesgvh",
-        "rive": "Rive",
+        "rive": "Rives",
         "suppr": 0
       },
       "geometry": {
@@ -383,7 +383,8 @@
           1.8621826171874998,
           47.84265762816535
         ]
-      }
+      },
+      "modified": true
     },
     {
       "type": "Feature",
@@ -1212,7 +1213,7 @@
     {
       "type": "Feature",
       "properties": {
-         "id_sysma": 30021,
+        "id_sysma": 30021,
         "commentair": null,
         "rive": null,
         "suppr": 0
