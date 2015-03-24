@@ -390,7 +390,7 @@
       "properties": {
         "id_sysma": 20869,
         "commentair": "comment next 1",
-        "rive": "rive",
+        "rive": "rivevg",
         "suppr": 1
       },
       "geometry": {
@@ -980,7 +980,7 @@
       "properties": {
         "id_sysma": 30012,
         "commentair": null,
-        "rive": null,
+        "rive": "hhh",
         "suppr": 0
       },
       "geometry": {
@@ -1042,8 +1042,8 @@
       "properties": {
         "id_sysma": 30014,
         "commentair": null,
-        "rive": null,
-        "suppr": 0
+        "rive": "ghh",
+        "suppr": 1
       },
       "geometry": {
         "type": "LineString",
