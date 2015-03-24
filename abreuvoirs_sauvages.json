@@ -643,7 +643,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30000
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -654,7 +656,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30001
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -665,7 +669,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30002
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -676,7 +682,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30003
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -693,7 +701,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30004
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -724,7 +734,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30005
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -755,7 +767,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30006
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -784,7 +798,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30007
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -809,7 +825,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30008
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -844,7 +862,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30009
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -875,7 +895,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30010
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -906,7 +928,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30011
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -917,7 +941,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30012
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -952,7 +978,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30013
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -969,7 +997,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30014
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -990,7 +1020,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30015
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1007,7 +1039,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30016
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1018,7 +1052,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30017
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1035,7 +1071,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30018
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1046,7 +1084,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30019
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1075,7 +1115,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id_sysma": 30020
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1106,7 +1148,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+         "id_sysma": 30021
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
