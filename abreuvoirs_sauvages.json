@@ -406,7 +406,7 @@
       "properties": {
         "id_sysma": 20870,
         "commentair": "belle rives belle rives",
-        "rive": "rive ok",
+        "rive": "rive ok la",
         "suppr": 0
       },
       "geometry": {
@@ -646,7 +646,7 @@
       "properties": {
         "id_sysma": 30000,
         "commentair": null,
-        "rive": "rive",
+        "rive": "aqzdriveqsqd",
         "suppr": 0
       },
       "geometry": {
@@ -929,7 +929,7 @@
         "id_sysma": 30010,
         "commentair": null,
         "rive": "pol",
-        "suppr": 0
+        "suppr": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1214,7 +1214,7 @@
       "properties": {
         "id_sysma": 30021,
         "commentair": null,
-        "rive": null,
+        "rive": "qsd",
         "suppr": 0
       },
       "geometry": {
