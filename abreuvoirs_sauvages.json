@@ -374,8 +374,8 @@
       "properties": {
         "id_sysma": 20868,
         "commentair": "commentairesgvh",
-        "rive": "Rivess",
-        "suppr": 0
+        "rive": "Rivessa",
+        "suppr": 1
       },
       "geometry": {
         "type": "Point",
