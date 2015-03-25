@@ -981,7 +981,7 @@
         "id_sysma": 30012,
         "commentair": null,
         "rive": "hhhggg",
-        "suppr": 0
+        "suppr": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1098,7 +1098,7 @@
       "properties": {
         "id_sysma": 30016,
         "commentair": null,
-        "rive": null,
+        "rive": "riv",
         "suppr": 0
       },
       "geometry": {
