@@ -390,7 +390,7 @@
       "properties": {
         "id_sysma": 20869,
         "commentair": "comment next 1",
-        "rive": "rivevgt berge",
+        "rive": "rivevgt berge br",
         "suppr": 1
       },
       "geometry": {
@@ -820,36 +820,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id_sysma": 30007,
-        "commentair": null,
-        "rive": null,
-        "suppr": 0
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.4371490478515623,
-            47.744402609451534
-          ],
-          [
-            -1.38153076171875,
-            47.803008949806895
-          ],
-          [
-            -1.253814697265625,
-            47.74394088010389
-          ],
-          [
-            -1.20025634765625,
-            47.80208652719499
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id_sysma": 30008,
         "commentair": null,
         "rive": null,
@@ -980,7 +950,7 @@
       "properties": {
         "id_sysma": 30012,
         "commentair": null,
-        "rive": "hhhggg",
+        "rive": "hhhgggeeee",
         "suppr": 1
       },
       "geometry": {
@@ -1232,8 +1202,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5328369140625,
-          47.41322033016902
+          0.6866455078125,
+          47.364873807434094
         ]
       }
     },
