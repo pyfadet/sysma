@@ -390,7 +390,7 @@
       "properties": {
         "id_sysma": 20869,
         "commentair": "comment next 1chanzaux",
-        "rive": "rivevgt berge br ct",
+        "rive": "rivevgt berge br ct el",
         "suppr": 1
       },
       "geometry": {
@@ -950,7 +950,7 @@
       "properties": {
         "id_sysma": 30012,
         "commentair": null,
-        "rive": "hhhgggeeee",
+        "rive": "hhhgggeeee mod",
         "suppr": 1
       },
       "geometry": {
@@ -1046,7 +1046,7 @@
       "properties": {
         "id_sysma": 30015,
         "commentair": null,
-        "rive": null,
+        "rive": "mod",
         "suppr": 0
       },
       "geometry": {
@@ -1358,6 +1358,88 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-03-31T09:31:44.158Z",
+        "commentair": "comm",
+        "rive": "rive"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.5657958984375,
+            46.773730730079414
+          ],
+          [
+            -0.37353515625,
+            46.912750956378915
+          ],
+          [
+            -0.3790283203125,
+            47.03643850299412
+          ]
+        ]
+      },
+      "created": true
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-03-31T09:32:29.338Z",
+        "commentair": "",
+        "rive": "on"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.318603515625,
+          47.200910301521674
+        ]
+      },
+      "created": true
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-03-31T09:32:41.815Z",
+        "commentair": "",
+        "rive": "rive"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.230712890625,
+              47.156104775044035
+            ],
+            [
+              -0.098876953125,
+              47.19717795172789
+            ],
+            [
+              -0.0384521484375,
+              47.08508535995384
+            ],
+            [
+              -0.208740234375,
+              47.05889641405164
+            ],
+            [
+              -0.230712890625,
+              47.11873795272713
+            ],
+            [
+              -0.230712890625,
+              47.156104775044035
+            ]
+          ]
+        ]
+      },
+      "created": true
     }
   ]
 }
