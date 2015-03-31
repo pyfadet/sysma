@@ -390,7 +390,7 @@
       "properties": {
         "id_sysma": 20869,
         "commentair": "comment next 1chanzaux",
-        "rive": "rivevgt berge br ct el",
+        "rive": "rivevgt berge br ct el remod",
         "suppr": 1
       },
       "geometry": {
@@ -950,7 +950,7 @@
       "properties": {
         "id_sysma": 30012,
         "commentair": null,
-        "rive": "hhhgggeeee mod",
+        "rive": "hhhgggeeee mod remod",
         "suppr": 1
       },
       "geometry": {
@@ -1046,7 +1046,7 @@
       "properties": {
         "id_sysma": 30015,
         "commentair": null,
-        "rive": "mod",
+        "rive": "mod remod",
         "suppr": 0
       },
       "geometry": {
@@ -1437,6 +1437,80 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-03-31T09:40:30.456Z",
+        "commentair": "",
+        "rive": "add point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.516357421875,
+          47.204642388766935
+        ]
+      },
+      "created": true
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-03-31T09:40:40.704Z",
+        "commentair": "",
+        "rive": "add rive"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.802001953125,
+            47.00273390667881
+          ],
+          [
+            -0.703125,
+            47.111261437080344
+          ]
+        ]
+      },
+      "created": true
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-03-31T09:40:50.525Z",
+        "commentair": "",
+        "rive": "add rec"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.8679199218749999,
+              46.848921470800455
+            ],
+            [
+              -0.8679199218749999,
+              46.924007100770275
+            ],
+            [
+              -0.72509765625,
+              46.924007100770275
+            ],
+            [
+              -0.72509765625,
+              46.848921470800455
+            ],
+            [
+              -0.8679199218749999,
+              46.848921470800455
+            ]
+          ]
+        ]
+      },
+      "created": true
     }
   ]
 }
