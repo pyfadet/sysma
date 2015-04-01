@@ -788,7 +788,7 @@
       "properties": {
         "id_sysma": 30006,
         "commentair": null,
-        "rive": "pol",
+        "rive": "polggggggg",
         "suppr": 0
       },
       "geometry": {
@@ -940,8 +940,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7907714843749998,
-          47.80208652719499
+          -1.702880859375,
+          47.657987988142274
         ]
       }
     },
@@ -1302,7 +1302,7 @@
       "properties": {
         "id": "2015-03-31T09:40:30.456Z",
         "commentair": "",
-        "rive": "add point p"
+        "rive": "add point pffg"
       },
       "geometry": {
         "type": "Point",
@@ -1373,7 +1373,7 @@
       "properties": {
         "id": "2015-03-31T10:08:31.618Z",
         "commentair": "",
-        "rive": "p qf"
+        "rive": "p qfhhhh"
       },
       "geometry": {
         "type": "Point",
@@ -1494,6 +1494,21 @@
             0.1593017578125,
             46.9127639968241
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-04-01T07:06:26.205Z",
+        "commentair": "",
+        "rive": "gggggg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8182373046875,
+          47.537601245618134
         ]
       }
     }
