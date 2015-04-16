@@ -905,6 +905,21 @@
           47.093967971338586
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-04-16T14:36:29.630Z",
+        "commentair": "qzsr",
+        "rive": "zsf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5712890625,
+          47.724544549099676
+        ]
+      }
     }
   ]
 }
