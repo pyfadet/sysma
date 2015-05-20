@@ -677,9 +677,9 @@
       "type": "Feature",
       "properties": {
         "id_sysma": 30002,
-        "commentair": null,
-        "rive": null,
-        "suppr": 0
+        "commentair": "abreuvoir",
+        "rive": "gauche",
+        "suppr": 1
       },
       "geometry": {
         "type": "Point",
@@ -918,6 +918,51 @@
         "coordinates": [
           -0.5712890625,
           47.724544549099676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-05-20T19:42:14.935Z",
+        "commentair": "nouvel abreuvoir",
+        "rive": "droite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.187896728515625,
+          47.24847474828181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2015-05-20T19:42:43.341Z",
+        "commentair": "test ligne",
+        "rive": "",
+        "suppr": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.2737274169921875,
+            47.26105819363418
+          ],
+          [
+            -1.267547607421875,
+            47.290873675843926
+          ],
+          [
+            -1.2297821044921875,
+            47.30111886794488
+          ],
+          [
+            -1.2297821044921875,
+            47.265252010946085
+          ]
         ]
       }
     }
